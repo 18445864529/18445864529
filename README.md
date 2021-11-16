@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats-vert-nine.vercel.app/api?username=18445864529&count_private=true&show_icons=true&hide=prs&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/18445864529/github-readme-stats)
+
+
+<a href="https://github.com/18445864529/TorchSSL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=18445864529&repo=TorchSSL" />
+</a>
