@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi 👋 I'm Doraemon, but only got 20 dollars in my pocket :crying_cat_face:
 
 ![](https://komarev.com/ghpvc/?username=18445864529&label=Total+Girlfriends&style=plastic&color=ff69b4)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{18445864529}/count.svg) -->
