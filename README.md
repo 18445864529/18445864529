@@ -1,4 +1,6 @@
+![](https://komarev.com/ghpvc/?username=18445864529)
 
+![Visitor Count](https://profile-counter.glitch.me/{18445864529}/count.svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats-vert-nine.vercel.app/api?username=18445864529&count_private=true&show_icons=true&hide=prs&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/18445864529/github-readme-stats)
 
