@@ -1,6 +1,6 @@
 #### Hi 👋 I'm Doraemon, but only got 20 dollars in my pocket :crying_cat_face:
 
-![](https://komarev.com/ghpvc/?username=18445864529&label=Total+Girlfriends&style=plastic&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=18445864529&label=Total+Visits&style=plastic&color=ff69b4)
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{18445864529}/count.svg) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats-vert-nine.vercel.app/api?username=18445864529&count_private=true&show_icons=true&hide=prs&theme=ayu-mirage&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/18445864529/github-readme-stats)
